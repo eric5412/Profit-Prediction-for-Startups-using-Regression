@@ -39,11 +39,11 @@ As a group, the startup companies in Florida had the highest Average Marketing S
 
 ## Regression Machine Learning Models:
 
-Several algorithms were used including linear regression, gradient boosting, and bagging. Metrics were compared for each model to determine which model was to be selected for providing predictions. The metrics used for evaluation were the R-squared value and the root mean square error (RMSE) value. The criteria for selection was that the model needed to have a high R-squared value and a low testing set root mean square error (RMSE) value.
+Several algorithms were used including linear regression, gradient boosting, and bagging. Metrics were compared for each model to determine which model was to be selected for providing predictions. The metrics used for evaluation were the R-squared value and the Root Mean Square Error (RMSE) value. The criteria for selection was that the model needed to have a high R-squared value and a low testing set Root Mean Square Error (RMSE) value.
 
 <br>
 
-#### Machine Learning Models Sorted by R-squared value:
+### Machine Learning Models Sorted by R-squared Value:
 
 ![Machine Learning Models Sorted by R-squared value](/images/5.png)
 
@@ -53,7 +53,7 @@ If the R-squared metric is the focus, then the XGBoost Regressor needed to be se
 
 <br>
 
-#### Machine Learning Models Sorted by RMSE value:
+### Machine Learning Models Sorted by RMSE Value:
 
 ![Machine Learning Models Sorted by RMSE value](/images/6.png)
 
@@ -75,7 +75,7 @@ The XGBoost model was then used to make a prediction. For a startup company loca
 * As a group, the startup companies in Florida had the highest Average Marketing Spend.<br><br>
 * Several Machine Learning Regression algorithms were used. The XGBoost Regression model was selected to predict Profit, because the XGBoost Regression model had the highest R-squared value and the lowest RMSE value.<br><br>
 
-**Please click [here](https://github.com/eric5412/Sentiment-Analysis-of-Product-Reviews/blob/main/Sentiment%20Analysis%20of%20Product%20Reviews.ipynb) for the entire project.**
+**Please click [here](https://github.com/eric5412/Profit-Prediction-for-Startups-using-Regression/blob/main/Profit%20Prediction%20for%20Startups%20using%20Regression%20Algorithms.ipynb) for the entire project.**
 
 <br><br>
 <br><br>
