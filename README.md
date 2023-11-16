@@ -43,7 +43,7 @@ Several algorithms were used including linear regression, gradient boosting, and
 
 <br>
 
-### Machine Learning Models Sorted by highest R2 Score:
+### Machine Learning Models Sorted by Highest R2 Score:
 
 ![Machine Learning Models Sorted by highest R2 Score](/images/5.png)
 
@@ -53,7 +53,7 @@ If the R-squared metric is the focus, then the XGBoost Regressor needed to be se
 
 <br>
 
-### Machine Learning Models Sorted by lowest Root Mean Squared Error:
+### Machine Learning Models Sorted by Lowest Root Mean Squared Error:
 
 ![Machine Learning Models Sorted by lowest Root Mean Squared Error](/images/6.png)
 
