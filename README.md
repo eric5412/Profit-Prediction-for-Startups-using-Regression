@@ -29,7 +29,7 @@ As a group, the startup companies in New York had the highest Total Profit.
 
 In each State, the highest expense for the startup companies was Marketing Spend.
 
-<br>
+<br><br>
 
 ![A bar chart of the average Marketing Spend of the startups by State](/images/4.png)
 
